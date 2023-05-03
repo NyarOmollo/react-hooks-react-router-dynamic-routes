@@ -12,7 +12,7 @@ function App() {
 // setMovies
     return (
     <div>
-        <NavBar />
+        {/* <NavBar />
             <Switch>
         <Route path="/movies">
             <MoviesPage movies={movies} />
@@ -20,7 +20,7 @@ function App() {
         <Route exact path="/">
             <div>Home</div>
         </Route>
-        </Switch>
+        </Switch> */}
     </div>
     );
 }
